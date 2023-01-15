@@ -15,7 +15,7 @@
 
 .buttons {
     display: grid; 
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;/*no. of entries= equal to no. of columns*/
     row-gap: 2px;
     column-gap: 2px;
 }
